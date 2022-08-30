@@ -1,0 +1,30 @@
+name: nuc4d
+channels:
+  - conda-forge
+  - omnia
+  - glotzer
+  - pyviz
+  - mosdef
+dependencies:
+  - pip
+  - nb_conda
+  - nb_conda_kernels
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - scipy
+  - plotly
+  - mdtraj
+  - mdanalysis
+  - mbuild
+  - packmol
+  - openbabel
+  - py3dmol
+  - freud
+  - hoomd
+  - networkx
+  - nglview
+  - ipydatawidgets
+  - ipykernel
+  - scikit-learn
